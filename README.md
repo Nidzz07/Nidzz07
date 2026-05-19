@@ -79,11 +79,7 @@ I build across the **full stack** — from data pipelines and ML models to clean
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=Nidzz07&theme=dark&hide_border=true"
-    height="170"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Nidzz07&theme=dark&hide_border=true" height="170" alt="Streak" />
 </p>
 
 <p align="center">
@@ -109,6 +105,7 @@ I build across the **full stack** — from data pipelines and ML models to clean
     alt="Advanced Metrics"
   />
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies
