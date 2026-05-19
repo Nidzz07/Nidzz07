@@ -68,7 +68,15 @@ I build across the **full stack** — from data pipelines and ML models to clean
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Nidzz07/Nidzz07/main/github-trophies.svg"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+</p>
 
 <p align="center">
   <img 
@@ -79,7 +87,11 @@ I build across the **full stack** — from data pipelines and ML models to clean
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nidzz07&theme=dark&hide_border=true" height="170" alt="Streak" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=Nidzz07&theme=dark&hide_border=true"
+    height="170"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
@@ -108,19 +120,18 @@ I build across the **full stack** — from data pipelines and ML models to clean
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nidzz07&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies" />
-</p>
-
----
-
 ## 🔝 Top Contributed Repos
 
 <p align="center">
   <img src="https://github-contribution-card.vercel.app/api?username=Nidzz07&limit=5" alt="Top Contributions" />    
 </p>
+
+---
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
@@ -145,5 +156,5 @@ I build across the **full stack** — from data pipelines and ML models to clean
 </p>
 
 <div align="center">
-  <i>Open to: internships · full-time · open-source collaboration</i>
+  <i>Open to: internships · open-source collaboration · AI/ML projects</i>
 </div>
