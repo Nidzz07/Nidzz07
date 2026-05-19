@@ -115,11 +115,6 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#107](undefined) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
-2. 🗣 Commented on [#97](https://github.com/shreyasmene06/pyvm-updater/issues/97#issuecomment-4476534327) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
-3. 🗣 Commented on [#107](https://github.com/shreyasmene06/pyvm-updater/pull/107#issuecomment-4476522855) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
-4. 💪 Opened PR [#107](undefined) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
-5. 💪 Opened PR [#106](undefined) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
 <!--END_SECTION:activity-->
 
 ---

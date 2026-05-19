@@ -2,7 +2,7 @@ name: Update README Activity
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,8 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: jamesgeorge007/github-activity-readme@v0.4.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: jamesgeorge007/github-activity-readme@master
         with:
           MAX_LINES: 10
+          COMMIT_MSG: "Update recent activity"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
