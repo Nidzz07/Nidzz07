@@ -72,14 +72,6 @@ I build across the **full stack** — from data pipelines and ML models to clean
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Nidzz07/Nidzz07/main/github-trophies.svg"
-    width="100%"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://raw.githubusercontent.com/Nidzz07/Nidzz07/main/github-metrics-languages.svg"
     width="100%"
     alt="Top Languages"
@@ -99,14 +91,6 @@ I build across the **full stack** — from data pipelines and ML models to clean
     src="https://github-readme-activity-graph.vercel.app/graph?username=Nidzz07&theme=github-compact&hide_border=true"
     width="100%"
     alt="Contribution Activity Graph"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Nidzz07/Nidzz07/main/github-metrics-activity.svg"
-    width="100%"
-    alt="Activity Overview"
   />
 </p>
 
