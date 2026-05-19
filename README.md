@@ -71,29 +71,44 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nidzz07/Nidzz07/main/github-metrics-languages.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nidzz07/Nidzz07/main/github-metrics-languages.svg" />
-    <img src="https://raw.githubusercontent.com/Nidzz07/Nidzz07/main/github-metrics-languages.svg" width="100%" alt="Top Languages" />
-  </picture>
+  <img 
+    src="https://raw.githubusercontent.com/Nidzz07/Nidzz07/main/github-metrics-languages.svg"
+    width="100%"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nidzz07&theme=dark&hide_border=true" height="170" alt="Streak" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=Nidzz07&theme=dark&hide_border=true"
+    height="170"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nidzz07&theme=github-compact&hide_border=true" width="100%" alt="Activity Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nidzz07&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nidzz07/Nidzz07/main/github-metrics-activity.svg" width="100%" alt="Activity Overview" />
+  <img 
+    src="https://raw.githubusercontent.com/Nidzz07/Nidzz07/main/github-metrics-activity.svg"
+    width="100%"
+    alt="Activity Overview"
+  />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nidzz07/Nidzz07/main/github-metrics.svg" width="100%" alt="Advanced Metrics" />
+  <img 
+    src="https://raw.githubusercontent.com/Nidzz07/Nidzz07/main/github-metrics.svg"
+    width="100%"
+    alt="Advanced Metrics"
+  />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
