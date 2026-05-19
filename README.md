@@ -115,6 +115,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#107](https://github.com/shreyasmene06/pyvm-updater/pull/107) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
+2. 🗣 Commented on [#97](https://github.com/shreyasmene06/pyvm-updater/issues/97#issuecomment-4476534327) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
+3. 🗣 Commented on [#107](https://github.com/shreyasmene06/pyvm-updater/pull/107#issuecomment-4476522855) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
+4. 💪 Opened PR [#107](https://github.com/shreyasmene06/pyvm-updater/pull/107) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
+5. 💪 Opened PR [#106](https://github.com/shreyasmene06/pyvm-updater/pull/106) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
+6. 💪 Opened PR [#105](https://github.com/shreyasmene06/pyvm-updater/pull/105) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
+7. 🗣 Commented on [#97](https://github.com/shreyasmene06/pyvm-updater/issues/97#issuecomment-4472346120) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
+8. 🎉 Merged PR [#29](https://github.com/YashDaga17/Fit-AI-Chain/pull/29) in [YashDaga17/Fit-AI-Chain](https://github.com/YashDaga17/Fit-AI-Chain)
+9. 🗣 Commented on [#29](https://github.com/YashDaga17/Fit-AI-Chain/pull/29#issuecomment-4467840935) in [YashDaga17/Fit-AI-Chain](https://github.com/YashDaga17/Fit-AI-Chain)
+10. 🎉 Merged PR [#11](https://github.com/snackoverflowasad/chat-buddy/pull/11) in [snackoverflowasad/chat-buddy](https://github.com/snackoverflowasad/chat-buddy)
 <!--END_SECTION:activity-->
 
 ---
