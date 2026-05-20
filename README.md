@@ -70,6 +70,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nidzz07&theme=algolia&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 🏆 GitHub Stats
 
 <p align="center">
