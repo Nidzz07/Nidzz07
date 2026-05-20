@@ -16,6 +16,8 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 🔭 What I'm Up To
 
 > Currently focused on **AI/ML engineering**, **DevOps automation**, and open-source contributions.
+> Learning AWS fundamentals and core cloud services (EC2, S3, IAM)
+> Solving daily LeetCode problems 
 
 ---
 
@@ -143,9 +145,6 @@ I build across the **full stack** — from data pipelines and ML models to clean
   </a>
   <a href="https://linkedin.com/in/nidhi-dhyani-9a9911331">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_._nidzz_._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
