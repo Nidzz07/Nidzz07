@@ -25,7 +25,7 @@ I build across the **full stack** — from data pipelines and ML models to clean
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,flask,tensorflow,pytorch,sklearn,opencv,docker,kubernetes,jenkins,git,github,mysql,postgres,sqlite,figma,blender,github,supabase,postman,vercel&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,flask,tensorflow,pytorch,sklearn,opencv,docker,kubernetes,jenkins,git,github,githubactions,gitlab,mysql,postgres,sqlite,figma,blender,supabase,postman,vercel&perline=12" />
   </a>
 </p>   
 
