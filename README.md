@@ -13,11 +13,11 @@ I build across the **full stack** — from data pipelines and ML models to clean
 
 ---
 
-## 🔭 What I'm Up To
+## 🔭 Currently Learning / Building
 
-> Currently focused on **AI/ML engineering**, **DevOps automation**, and open-source contributions.
-> Learning AWS fundamentals and core cloud services (EC2, S3, IAM)
-> Solving daily LeetCode problems 
+- Currently focused on **AI/ML Engineering**, **DevOps automation**, and open-source contributions.
+- Learning AWS fundamentals and core cloud services (**EC2, S3, IAM**)
+- Solving daily LeetCode problems
 
 ---
 
