@@ -127,11 +127,11 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-2. ℹ️ Labeled issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+1. 💪 Opened PR [#2](https://github.com/Saumya-singh2101/Saarthi/pull/2) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+2. ℹ️ Assigned issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
 3. ℹ️ Labeled issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-4. ❗ Opened issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-5. 🗣 Commented on [#107](https://github.com/shreyasmene06/pyvm-updater/pull/107#issuecomment-4476522855) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
+4. ℹ️ Labeled issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+5. ❗ Opened issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
 6. 💪 Opened PR [#107](https://github.com/shreyasmene06/pyvm-updater/pull/107) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
 7. 💪 Opened PR [#106](https://github.com/shreyasmene06/pyvm-updater/pull/106) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
 8. 💪 Opened PR [#105](https://github.com/shreyasmene06/pyvm-updater/pull/105) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
