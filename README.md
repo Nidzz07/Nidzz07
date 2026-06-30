@@ -127,16 +127,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Saumya-singh2101/Saarthi/pull/2) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-2. ℹ️ Assigned issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-3. ℹ️ Labeled issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-4. ℹ️ Labeled issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-5. ❗ Opened issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-6. 💪 Opened PR [#107](https://github.com/shreyasmene06/pyvm-updater/pull/107) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
-7. 💪 Opened PR [#106](https://github.com/shreyasmene06/pyvm-updater/pull/106) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
-8. 💪 Opened PR [#105](https://github.com/shreyasmene06/pyvm-updater/pull/105) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
-9. 🗣 Commented on [#97](https://github.com/shreyasmene06/pyvm-updater/issues/97#issuecomment-4472346120) in [shreyasmene06/pyvm-updater](https://github.com/shreyasmene06/pyvm-updater)
-10. 🎉 Merged PR [#29](https://github.com/YashDaga17/Fit-AI-Chain/pull/29) in [YashDaga17/Fit-AI-Chain](https://github.com/YashDaga17/Fit-AI-Chain)
+1. ℹ️ Assigned issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+2. ℹ️ Labeled issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+3. ❗ Opened issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+4. 🎉 Merged PR [#2](https://github.com/Saumya-singh2101/Saarthi/pull/2) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+5. 🔒 Closed issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+6. 💪 Opened PR [#2](https://github.com/Saumya-singh2101/Saarthi/pull/2) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+7. ℹ️ Assigned issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+8. ℹ️ Labeled issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+9. ℹ️ Labeled issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+10. ❗ Opened issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
 <!--END_SECTION:activity-->
 
 ---
