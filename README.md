@@ -127,16 +127,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-2. ℹ️ Labeled issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-3. ❗ Opened issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-4. 🎉 Merged PR [#2](https://github.com/Saumya-singh2101/Saarthi/pull/2) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-5. 🔒 Closed issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-6. 💪 Opened PR [#2](https://github.com/Saumya-singh2101/Saarthi/pull/2) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-7. ℹ️ Assigned issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-8. ℹ️ Labeled issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-9. ℹ️ Labeled issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
-10. ❗ Opened issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+1. 🔒 Closed issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+2. 🎉 Merged PR [#4](https://github.com/Saumya-singh2101/Saarthi/pull/4) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+3. 💪 Opened PR [#4](https://github.com/Saumya-singh2101/Saarthi/pull/4) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+4. ℹ️ Assigned issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+5. ℹ️ Labeled issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+6. ❗ Opened issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+7. 🎉 Merged PR [#2](https://github.com/Saumya-singh2101/Saarthi/pull/2) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+8. 🔒 Closed issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+9. 💪 Opened PR [#2](https://github.com/Saumya-singh2101/Saarthi/pull/2) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+10. ℹ️ Assigned issue [#1](https://github.com/Saumya-singh2101/Saarthi/issues/1) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
 <!--END_SECTION:activity-->
 
 ---
