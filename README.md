@@ -127,8 +127,8 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Nidzz07/CareerBoost-Job-Portal/pull/1) in [Nidzz07/CareerBoost-Job-Portal](https://github.com/Nidzz07/CareerBoost-Job-Portal)
-2. 💪 Opened PR [#1](https://github.com/Nidzz07/CareerBoost-Job-Portal/pull/1) in [Nidzz07/CareerBoost-Job-Portal](https://github.com/Nidzz07/CareerBoost-Job-Portal)
+1. 🎉 Merged PR [#1](https://github.com/Nidzz07/Sakhi-ElevateHer/pull/1) in [Nidzz07/Sakhi-ElevateHer](https://github.com/Nidzz07/Sakhi-ElevateHer)
+2. 💪 Opened PR [#1](https://github.com/Nidzz07/Sakhi-ElevateHer/pull/1) in [Nidzz07/Sakhi-ElevateHer](https://github.com/Nidzz07/Sakhi-ElevateHer)
 3. ℹ️ Labeled issue [#2](https://github.com/Nidzz07/leetcode-grind/issues/2) in [Nidzz07/leetcode-grind](https://github.com/Nidzz07/leetcode-grind)
 4. ❗ Opened issue [#2](https://github.com/Nidzz07/leetcode-grind/issues/2) in [Nidzz07/leetcode-grind](https://github.com/Nidzz07/leetcode-grind)
 5. 🔒 Closed issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
