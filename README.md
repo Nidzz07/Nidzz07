@@ -127,11 +127,11 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Nidzz07/Mastercard-Innovation-Challenge-2026/issues/1) in [Nidzz07/Mastercard-Innovation-Challenge-2026](https://github.com/Nidzz07/Mastercard-Innovation-Challenge-2026)
-2. 🎉 Merged PR [#1](https://github.com/Nidzz07/Gods-Plan-SIH-2026/pull/1) in [Nidzz07/Gods-Plan-SIH-2026](https://github.com/Nidzz07/Gods-Plan-SIH-2026)
-3. 💪 Opened PR [#1](https://github.com/Nidzz07/Gods-Plan-SIH-2026/pull/1) in [Nidzz07/Gods-Plan-SIH-2026](https://github.com/Nidzz07/Gods-Plan-SIH-2026)
-4. ❗ Opened issue [#2](https://github.com/Nidzz07/leetcode-grind/issues/2) in [Nidzz07/leetcode-grind](https://github.com/Nidzz07/leetcode-grind)
-5. 🔒 Closed issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
+1. 🎉 Merged PR [#2](https://github.com/Nidzz07/Gods-Plan-SIH-2026/pull/2) in [Nidzz07/Gods-Plan-SIH-2026](https://github.com/Nidzz07/Gods-Plan-SIH-2026)
+2. 💪 Opened PR [#2](https://github.com/Nidzz07/Gods-Plan-SIH-2026/pull/2) in [Nidzz07/Gods-Plan-SIH-2026](https://github.com/Nidzz07/Gods-Plan-SIH-2026)
+3. ❗ Opened issue [#1](https://github.com/Nidzz07/Mastercard-Innovation-Challenge-2026/issues/1) in [Nidzz07/Mastercard-Innovation-Challenge-2026](https://github.com/Nidzz07/Mastercard-Innovation-Challenge-2026)
+4. 🎉 Merged PR [#1](https://github.com/Nidzz07/Gods-Plan-SIH-2026/pull/1) in [Nidzz07/Gods-Plan-SIH-2026](https://github.com/Nidzz07/Gods-Plan-SIH-2026)
+5. 💪 Opened PR [#1](https://github.com/Nidzz07/Gods-Plan-SIH-2026/pull/1) in [Nidzz07/Gods-Plan-SIH-2026](https://github.com/Nidzz07/Gods-Plan-SIH-2026)
 6. 🎉 Merged PR [#4](https://github.com/Saumya-singh2101/Saarthi/pull/4) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
 7. 💪 Opened PR [#4](https://github.com/Saumya-singh2101/Saarthi/pull/4) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
 8. ℹ️ Assigned issue [#3](https://github.com/Saumya-singh2101/Saarthi/issues/3) in [Saumya-singh2101/Saarthi](https://github.com/Saumya-singh2101/Saarthi)
