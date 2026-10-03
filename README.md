@@ -127,16 +127,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Nidzz07/Amazon-ML-Challenge-2026/pull/17) in [Nidzz07/Amazon-ML-Challenge-2026](https://github.com/Nidzz07/Amazon-ML-Challenge-2026)
-2. 💪 Opened PR [#17](https://github.com/Nidzz07/Amazon-ML-Challenge-2026/pull/17) in [Nidzz07/Amazon-ML-Challenge-2026](https://github.com/Nidzz07/Amazon-ML-Challenge-2026)
-3. 🎉 Merged PR [#16](https://github.com/Nidzz07/Amazon-ML-Challenge-2026/pull/16) in [Nidzz07/Amazon-ML-Challenge-2026](https://github.com/Nidzz07/Amazon-ML-Challenge-2026)
-4. 💪 Opened PR [#16](https://github.com/Nidzz07/Amazon-ML-Challenge-2026/pull/16) in [Nidzz07/Amazon-ML-Challenge-2026](https://github.com/Nidzz07/Amazon-ML-Challenge-2026)
-5. ❌ Closed PR [#15](https://github.com/Nidzz07/Amazon-ML-Challenge-2026/pull/15) in [Nidzz07/Amazon-ML-Challenge-2026](https://github.com/Nidzz07/Amazon-ML-Challenge-2026)
-6. 🎉 Merged PR [#14](https://github.com/Nidzz07/Amazon-ML-Challenge-2026/pull/14) in [Nidzz07/Amazon-ML-Challenge-2026](https://github.com/Nidzz07/Amazon-ML-Challenge-2026)
-7. 💪 Opened PR [#14](https://github.com/Nidzz07/Amazon-ML-Challenge-2026/pull/14) in [Nidzz07/Amazon-ML-Challenge-2026](https://github.com/Nidzz07/Amazon-ML-Challenge-2026)
-8. 🎉 Merged PR [#13](https://github.com/Nidzz07/Amazon-ML-Challenge-2026/pull/13) in [Nidzz07/Amazon-ML-Challenge-2026](https://github.com/Nidzz07/Amazon-ML-Challenge-2026)
-9. 💪 Opened PR [#13](https://github.com/Nidzz07/Amazon-ML-Challenge-2026/pull/13) in [Nidzz07/Amazon-ML-Challenge-2026](https://github.com/Nidzz07/Amazon-ML-Challenge-2026)
-10. 🎉 Merged PR [#9](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/9) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+1. 🎉 Merged PR [#12](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/12) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+2. ℹ️ Assigned PR [#12](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/12) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+3. 💪 Opened PR [#12](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/12) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+4. 🎉 Merged PR [#11](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/11) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+5. ℹ️ Assigned PR [#11](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/11) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+6. 💪 Opened PR [#11](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/11) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+7. 🎉 Merged PR [#10](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/10) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+8. ℹ️ Assigned PR [#10](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/10) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+9. 💪 Opened PR [#10](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/10) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+10. 🎉 Merged PR [#17](https://github.com/Nidzz07/Amazon-ML-Challenge-2026/pull/17) in [Nidzz07/Amazon-ML-Challenge-2026](https://github.com/Nidzz07/Amazon-ML-Challenge-2026)
 <!--END_SECTION:activity-->
 
 ---
