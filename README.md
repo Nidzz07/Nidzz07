@@ -127,16 +127,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/4) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-2. 🎉 Merged PR [#3](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/3) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-3. 💪 Opened PR [#3](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/3) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-4. 🎉 Merged PR [#1](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/1) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-5. ℹ️ Labeled PR [#1](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/1) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-6. 💪 Opened PR [#1](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/1) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-7. 🎉 Merged PR [#12](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/12) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-8. ℹ️ Assigned PR [#12](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/12) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-9. 💪 Opened PR [#12](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/12) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-10. 🎉 Merged PR [#11](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/11) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+1. 🎉 Merged PR [#4](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/4) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+2. 💪 Opened PR [#4](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/4) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+3. 🎉 Merged PR [#3](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/3) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+4. 💪 Opened PR [#3](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/3) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+5. 🎉 Merged PR [#1](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/1) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+6. ℹ️ Labeled PR [#1](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/1) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+7. 💪 Opened PR [#1](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/1) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+8. 🎉 Merged PR [#12](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/12) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+9. ℹ️ Assigned PR [#12](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/12) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+10. 💪 Opened PR [#12](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/12) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
 <!--END_SECTION:activity-->
 
 ---
