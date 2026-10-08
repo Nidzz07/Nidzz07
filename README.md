@@ -127,16 +127,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/14) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-2. 🎉 Merged PR [#10](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/10) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-3. ℹ️ Assigned PR [#10](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/10) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-4. 💪 Opened PR [#10](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/10) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-5. 🎉 Merged PR [#9](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/9) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-6. 💪 Opened PR [#9](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/9) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-7. 🎉 Merged PR [#7](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/7) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-8. 💪 Opened PR [#7](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/7) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-9. 🎉 Merged PR [#6](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/6) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-10. 💪 Opened PR [#6](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/6) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+1. 🎉 Merged PR [#15](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/15) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+2. 💪 Opened PR [#15](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/15) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+3. 🎉 Merged PR [#14](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/14) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+4. 💪 Opened PR [#14](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/14) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+5. 🎉 Merged PR [#10](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/10) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+6. ℹ️ Assigned PR [#10](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/10) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+7. 💪 Opened PR [#10](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/10) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+8. 🎉 Merged PR [#9](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/9) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+9. 💪 Opened PR [#9](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/9) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+10. 🎉 Merged PR [#7](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/7) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
 <!--END_SECTION:activity-->
 
 ---
