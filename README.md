@@ -127,16 +127,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/1) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
-2. 💪 Opened PR [#1](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/1) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
-3. 🎉 Merged PR [#21](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/21) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-4. 💪 Opened PR [#21](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/21) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-5. 🎉 Merged PR [#15](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/15) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-6. 💪 Opened PR [#15](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/15) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-7. 🎉 Merged PR [#14](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/14) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-8. 💪 Opened PR [#14](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/14) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-9. 🎉 Merged PR [#10](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/10) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-10. ℹ️ Assigned PR [#10](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/10) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+1. 💪 Opened PR [#18](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/18) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+2. 🎉 Merged PR [#3](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/3) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+3. 💪 Opened PR [#3](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/3) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+4. 🎉 Merged PR [#2](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/2) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+5. 💪 Opened PR [#2](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/2) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+6. 🎉 Merged PR [#1](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/1) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+7. 💪 Opened PR [#1](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/1) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+8. 🎉 Merged PR [#21](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/21) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+9. 💪 Opened PR [#21](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/21) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+10. 🎉 Merged PR [#15](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/15) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
 <!--END_SECTION:activity-->
 
 ---
