@@ -127,16 +127,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#67](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/67) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-2. 💪 Opened PR [#67](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/67) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-3. 🎉 Merged PR [#66](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/66) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-4. 💪 Opened PR [#66](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/66) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-5. 🎉 Merged PR [#24](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/24) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-6. 🎉 Merged PR [#10](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/10) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
-7. 💪 Opened PR [#10](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/10) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
-8. 💪 Opened PR [#24](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/24) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-9. ℹ️ Labeled issue [#64](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/issues/64) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-10. ❗ Opened issue [#64](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/issues/64) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+1. 🎉 Merged PR [#67](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/67) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+2. ℹ️ Labeled PR [#67](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/67) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+3. 💪 Opened PR [#67](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/67) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+4. 🎉 Merged PR [#66](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/66) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+5. 💪 Opened PR [#66](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/66) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+6. 🎉 Merged PR [#24](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/24) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+7. 🎉 Merged PR [#10](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/10) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+8. 💪 Opened PR [#10](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/10) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+9. 💪 Opened PR [#24](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/24) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+10. ℹ️ Labeled issue [#64](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/issues/64) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
 <!--END_SECTION:activity-->
 
 ---
