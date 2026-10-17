@@ -127,16 +127,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/28) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-2. 💪 Opened PR [#28](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/28) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-3. 🎉 Merged PR [#71](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/71) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-4. 💪 Opened PR [#71](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/71) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-5. 🎉 Merged PR [#11](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/11) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
-6. 💪 Opened PR [#11](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/11) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
-7. 🎉 Merged PR [#26](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/26) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-8. 🎉 Merged PR [#25](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/25) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-9. 💪 Opened PR [#26](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/26) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-10. 💪 Opened PR [#25](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/25) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+1. 🎉 Merged PR [#31](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/31) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+2. 💪 Opened PR [#31](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/31) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+3. 🎉 Merged PR [#28](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/28) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+4. 💪 Opened PR [#28](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/28) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+5. 🎉 Merged PR [#71](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/71) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+6. 💪 Opened PR [#71](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/71) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+7. 🎉 Merged PR [#11](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/11) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+8. 💪 Opened PR [#11](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/11) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+9. 🎉 Merged PR [#26](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/26) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+10. 🎉 Merged PR [#25](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/25) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
 <!--END_SECTION:activity-->
 
 ---
