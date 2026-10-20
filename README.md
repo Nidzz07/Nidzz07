@@ -127,16 +127,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/62) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-2. 💪 Opened PR [#62](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/62) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-3. 🎉 Merged PR [#60](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/60) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-4. 💪 Opened PR [#60](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/60) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
-5. 🎉 Merged PR [#41](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/41) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-6. 🎉 Merged PR [#40](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/40) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-7. 🎉 Merged PR [#42](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/42) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-8. 💪 Opened PR [#42](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/42) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-9. 💪 Opened PR [#41](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/41) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-10. 💪 Opened PR [#40](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/40) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+1. 🎉 Merged PR [#14](https://github.com/dhruvgangurde/marga-mitra/pull/14) in [dhruvgangurde/marga-mitra](https://github.com/dhruvgangurde/marga-mitra)
+2. 💪 Opened PR [#14](https://github.com/dhruvgangurde/marga-mitra/pull/14) in [dhruvgangurde/marga-mitra](https://github.com/dhruvgangurde/marga-mitra)
+3. 🎉 Merged PR [#47](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/47) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+4. 💪 Opened PR [#47](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/47) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+5. 🎉 Merged PR [#46](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/46) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+6. 💪 Opened PR [#46](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/46) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+7. 🎉 Merged PR [#65](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/65) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+8. 💪 Opened PR [#65](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/65) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+9. 🎉 Merged PR [#62](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/62) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
+10. 💪 Opened PR [#62](https://github.com/rohansd05/unified-distributed-coordination-framework/pull/62) in [rohansd05/unified-distributed-coordination-framework](https://github.com/rohansd05/unified-distributed-coordination-framework)
 <!--END_SECTION:activity-->
 
 ---
