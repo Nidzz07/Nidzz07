@@ -127,16 +127,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/85) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-2. 💪 Opened PR [#85](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/85) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
-3. 🎉 Merged PR [#18](https://github.com/dhruvgangurde/marga-mitra/pull/18) in [dhruvgangurde/marga-mitra](https://github.com/dhruvgangurde/marga-mitra)
-4. 💪 Opened PR [#18](https://github.com/dhruvgangurde/marga-mitra/pull/18) in [dhruvgangurde/marga-mitra](https://github.com/dhruvgangurde/marga-mitra)
-5. 🎉 Merged PR [#15](https://github.com/dhruvgangurde/marga-mitra/pull/15) in [dhruvgangurde/marga-mitra](https://github.com/dhruvgangurde/marga-mitra)
-6. 💪 Opened PR [#15](https://github.com/dhruvgangurde/marga-mitra/pull/15) in [dhruvgangurde/marga-mitra](https://github.com/dhruvgangurde/marga-mitra)
-7. 🎉 Merged PR [#14](https://github.com/dhruvgangurde/marga-mitra/pull/14) in [dhruvgangurde/marga-mitra](https://github.com/dhruvgangurde/marga-mitra)
-8. 💪 Opened PR [#14](https://github.com/dhruvgangurde/marga-mitra/pull/14) in [dhruvgangurde/marga-mitra](https://github.com/dhruvgangurde/marga-mitra)
-9. 🎉 Merged PR [#47](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/47) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-10. 💪 Opened PR [#47](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/47) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+1. ❌ Closed PR [#53](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/53) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+2. 💪 Opened PR [#53](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/53) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+3. 🎉 Merged PR [#52](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/52) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+4. 💪 Opened PR [#52](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/52) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+5. 🎉 Merged PR [#51](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/51) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+6. 💪 Opened PR [#51](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/51) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+7. 🎉 Merged PR [#85](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/85) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+8. 💪 Opened PR [#85](https://github.com/rohansd05/CNS---Honey-Encryption-Vault/pull/85) in [rohansd05/CNS---Honey-Encryption-Vault](https://github.com/rohansd05/CNS---Honey-Encryption-Vault)
+9. 🎉 Merged PR [#18](https://github.com/dhruvgangurde/marga-mitra/pull/18) in [dhruvgangurde/marga-mitra](https://github.com/dhruvgangurde/marga-mitra)
+10. 💪 Opened PR [#18](https://github.com/dhruvgangurde/marga-mitra/pull/18) in [dhruvgangurde/marga-mitra](https://github.com/dhruvgangurde/marga-mitra)
 <!--END_SECTION:activity-->
 
 ---
