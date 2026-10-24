@@ -127,16 +127,16 @@ I build across the **full stack** — from data pipelines and ML models to clean
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/67) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-2. 💪 Opened PR [#67](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/67) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-3. 🎉 Merged PR [#64](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/64) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-4. 🎉 Merged PR [#61](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/61) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-5. 💪 Opened PR [#64](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/64) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-6. 🎉 Merged PR [#60](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/60) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-7. 💪 Opened PR [#61](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/61) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-8. 💪 Opened PR [#60](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/60) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-9. 🎉 Merged PR [#57](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/57) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
-10. 💪 Opened PR [#57](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/57) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+1. 🎉 Merged PR [#22](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/22) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+2. 💪 Opened PR [#22](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/22) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+3. 🎉 Merged PR [#68](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/68) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+4. 💪 Opened PR [#68](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/68) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+5. 🎉 Merged PR [#19](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/19) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+6. 💪 Opened PR [#19](https://github.com/rohansd05/SE-vehicle-rental-management-system/pull/19) in [rohansd05/SE-vehicle-rental-management-system](https://github.com/rohansd05/SE-vehicle-rental-management-system)
+7. 🎉 Merged PR [#67](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/67) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+8. 💪 Opened PR [#67](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/67) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+9. 🎉 Merged PR [#64](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/64) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
+10. 🎉 Merged PR [#61](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System/pull/61) in [Nidzz07/Automated-Academic-Timetable-Scheduling-System](https://github.com/Nidzz07/Automated-Academic-Timetable-Scheduling-System)
 <!--END_SECTION:activity-->
 
 ---
